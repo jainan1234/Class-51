@@ -1,0 +1,18 @@
+h1 {
+    color: #A52A2A;
+}
+
+.jainan {
+    border: solid;
+    display:flex;
+    justify-content:space-between
+}
+.wafi{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
+
+body{
+    background-color: yellowgreen
+}
